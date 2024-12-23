@@ -2,7 +2,9 @@
 
 A modern, responsive weather monitoring application built with React and TypeScript that provides real-time weather data for cities across India and worldwide.
 
-![Weather Dashboard](https://imgur.com/a/hCnJJ8r)
+## 🌟 Weather DashBoard
+![Screenshot 2024-12-22 205752](https://github.com/user-attachments/assets/52bb4e5d-98b7-49bb-8e6f-86872beb95b9)
+
 
 
 
